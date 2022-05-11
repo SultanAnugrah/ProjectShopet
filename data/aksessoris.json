@@ -1,0 +1,117 @@
+{
+
+    "menu":[
+    {
+        "id":"1",
+        "namamakanan" : "Kalung Anjing",
+        "desc" : "with genuine cowhide and iron and decoration, etc.",
+        "category" :"Aksessoris",
+        "harga" : "20.000",
+        "foto" : "aksesoris1.png"
+    },
+    {
+        "id":"2",
+        "namamakanan" : "Kalung Kucing",
+        "desc" : "with genuine cowhide and iron and decoration, etc.",
+        "category" :"Aksessoris",
+        "harga" : "20.000",
+        "foto" : "aksesoris2.png"
+    },
+    {
+        "id":"3",
+        "namamakanan" : "Sisir Hewan Peliharaan",
+        "desc" : "strong comb for combing pets with poly carbonate and iron, etc.",
+        "category" :"Aksessoris",
+        "harga" : "15.000",
+        "foto" : "aksesoris3.png"
+    },
+    {
+        "id":"4",
+        "namamakanan" : "parfum hewan peliharaan",
+        "desc" : "using the latest technology and long lasting smell, etc.",
+        "category" :"Aksessoris",
+        "harga" : "25.000",
+        "foto" : "aksesoris4.png"
+    },
+    {
+        "id":"5",
+        "namamakanan" : "Baju Kucing",
+        "desc" : "Made of soft cotton so it's safe for pets, etc.",
+        "category" :"Aksessoris",
+        "harga" : "50.000",
+        "foto" : "aksesoris5.png"
+    },
+    {
+        "id":"6",
+        "namamakanan" : "Baju Anjing",
+        "desc" : "Made of soft cotton so it's safe for pets, etc.",
+        "category" :"Aksessoris",
+        "harga" : "50.000",
+        "foto" : "aksesoris6.png"
+    },
+    {
+        "id":"7",
+        "namamakanan" : "Mainan Kucing",
+        "desc" : "using synthetic fur and polycarbonate, etc.",
+        "category" :"Aksessoris",
+        "harga" : "30.000",
+        "foto" : "aksesoris7.png"
+    },
+    {
+        "id":"8",
+        "namamakanan" : "Mainan Anjing",
+        "desc" : "Use strong material to make it last longer, etc.",
+        "category" :"Aksessoris",
+        "harga" : "40.000",
+        "foto" : "aksesoris8.png"
+    },
+    {
+        "id":"9",
+        "namamakanan" : "Gunting Kuku Hewan Peliharaan",
+        "desc" : "strong comb for combing pets with poly carbonate and iron, etc.",
+        "category" :"Aksessoris",
+        "harga" : "15.000",
+        "foto" : "aksesoris9.png"
+    },
+    {
+        "id":"10",
+        "namamakanan" : "Mangkuk Makan Kucing",
+        "desc" : "poly carbonate and granite, etc.",
+        "category" :"Aksessoris",
+        "harga" : "20.000",
+        "foto" : "aksesoris10.png"
+    },
+    {
+        "id":"11",
+        "namamakanan" : "Mangkuk Makan Anjing",
+        "desc" : "stainless steel and poly carbonate, etc.",
+        "category" :"Aksessoris",
+        "harga" : "20.000",
+        "foto" : "aksesoris11.png"
+    },
+    {
+        "id":"12",
+        "namamakanan" : "Pasir Kucing",
+        "desc" : "with sand that has been managed well and smells good, etc.",
+        "category" :"Aksessoris",
+        "harga" : "30.000",
+        "foto" : "aksesoris12.png"
+    },
+    {
+        "id":"15",
+        "namamakanan" : "Tempat Tidur Kucing",
+        "desc" : "with wood, poly carbonate and tassel to beautify, etc.",
+        "category" :"Aksessoris",
+        "harga" : "100.000",
+        "foto" : "aksesoris13.png"
+    },
+    {
+        "id":"16",
+        "namamakanan" : "Tempat Tidur Anjing",
+        "desc" : "with wood, poly carbonate and tassel to beautify, etc.",
+        "category" :"Aksessoris",
+        "harga" : "100.000",
+        "foto" : "aksesoris14.png"
+    }
+]
+}

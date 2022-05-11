@@ -1,0 +1,521 @@
+{
+
+    "menu":[
+        {
+            "id":"14",
+            "namamakanan" : "Super Cat Salmon",
+            "desc" : "This super cat canned food is nutritious, and the content is very good for the growth of kittens. With a mixture of Tuna and Minced Salmon flavors, it can certainly arouse Anabul's appetite",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing14.png"
+        },
+        {
+            "id":"4",
+            "namamakanan" : "Betta Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Color Brighteners, Anti-Oxidant and others. Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, etc.",
+            "category" :"Fish Food",
+            "harga" : "5.000",
+            "foto" : "Ikan4.png"
+        },
+        {
+            "id":"8",
+            "namamakanan" : "Ebod Love Bird",
+            "desc" : "Ebod Love Bird plastic packaging which is certainly economical, made from high quality grains. Complete and highly nutritious, enriched with vitamins, minerals Dried fruits and vegetables",
+            "category" :"Bird Food",
+            "harga" : "10.000",
+            "foto" : "Burung8.png"
+        },
+        {
+            "id":"9",
+            "namamakanan" : "Bolt Tuna",
+            "desc" : "Tuna meal, Poultry Meat Meal, Wheat, Corn, Soya Flour,Taurine, Omega Oil, Choline Choloride, Multivitamins (AD3, E, C, B1, B2, B6, B12) Biotin , Folic Acid, Chelated Minerals.",
+            "category" :"Cat Food",
+            "harga" : "25.000",
+            "foto" : "Kucing9.png"
+        },
+        {
+            "id":"11",
+            "namamakanan" : "Leopard Seaweed",
+            "desc" : "Improves bird performance and ingredients Vitamins (A, C, B1, B12, D, E), Minerals (Na, P, Ca, Zn, Fe, Se, Cu, K), Fiber, Insects, Protein, Honey, Milk , Fruit extract, Fish oil, etc",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung11.png"
+        },
+        {
+            "id":"1",
+            "namamakanan" : "Phoenix Love Bird",
+            "desc" : "Contains ingredients: Sun seeds, red white millet, barley, canary seeds, mustard seeds, white grain, Vitamins A, B, C, B1, B2, B6, B12, Zinc, and Magnesium as well as amino acids",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung1.png"
+        },
+        {
+            "id":"2",
+            "namamakanan" : "Phoenix Canary",
+            "desc" : "Contains ingredients: Sun seeds, red white millet, barley, canary seeds, mustard seeds, white grain, Vitamins A, B, C, B1, B2, B6, B12, Zinc, and Magnesium as well as amino acids",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung2.png"
+        },
+        {
+            "id":"3",
+            "namamakanan" : "Takari Fish Food",
+            "desc" : "Contains fish meal, shrimp meal, soybean meal, vitamins and minerals premix, pigment enhancer, antioxidant etc. 30% Protein, 3% Fat, 4% Fiber, 12% Ash, 12% Moisture Content",
+            "category" :"Fish Food",
+            "harga" : "10.000",
+            "foto" : "Ikan3.png"
+        },
+
+
+        {
+            "id":"6",
+            "namamakanan" : "Excel Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing6.png"
+        },
+        {
+            "id":"4",
+            "namamakanan" : "Ronggolawe",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung4.png"
+        },
+        {
+            "id":"5",
+            "namamakanan" : "Fancy 9 Star",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "20.000",
+            "foto" : "Burung5.png"
+        },
+        {
+            "id":"15",
+            "namamakanan" : "Meow Cat Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "20.000",
+            "foto" : "Kucing15.png"
+        },
+        {
+            "id":"9",
+            "namamakanan" : "Leopard Madu Halus",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "10.000",
+            "foto" : "Burung9.png"
+        },
+        {
+            "id":"10",
+            "namamakanan" : "Leopard Scrumble",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "10.000",
+            "foto" : "Burung10.png"
+        },
+    
+        {
+            "id":"12",
+            "namamakanan" : "Vitamix Love Bird",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "10.000",
+            "foto" : "Burung12.png"
+        },
+        {
+            "id":"16",
+            "namamakanan" : "Miltih",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "10.000",
+            "foto" : "Burung16.png"
+        },
+        {
+            "id":"1",
+            "namamakanan" : "Cat Choice Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "20.000",
+            "foto" : "Kucing1.png"
+        },
+        {
+            "id":"2",
+            "namamakanan" : "Cat Choice Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "20.000",
+            "foto" : "Kucing2.png"
+        },
+        {
+            "id":"3",
+            "namamakanan" : "Felibite Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing3.png"
+        },
+        {
+            "id":"15",
+            "namamakanan" : "Fengli 1",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "30.000",
+            "foto" : "Ikan15.png"
+        },
+        {
+            "id":"4",
+            "namamakanan" : "Felibite Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing4.png"
+        },
+        {
+            "id":"14",
+            "namamakanan" : "Fancy Anti Stress",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung14.png"
+        },
+        {
+            "id":"5",
+            "namamakanan" : "Excel Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing5.png"
+        },
+        {
+            "id":"7",
+            "namamakanan" : "Whiskas Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "20.000",
+            "foto" : "Kucing7.png"
+        },
+        {
+            "id":"13",
+            "namamakanan" : "Vitamix Canary",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "10.000",
+            "foto" : "Burung13.png"
+        },
+        {
+            "id":"8",
+            "namamakanan" : "Whiskas Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "20.000",
+            "foto" : "Kucing8.png"
+        },
+        {
+            "id":"10",
+            "namamakanan" : "Bolt Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "25.000",
+            "foto" : "Kucing10.png"
+        },
+        {
+            "id":"12",
+            "namamakanan" : "Ori Cat Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing12.png"
+        },
+        {
+            "id":"16",
+            "namamakanan" : "Meow Cat Salmon",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "20.000",
+            "foto" : "Kucing16.png"
+        },
+        {
+            "id":"1",
+            "namamakanan" : "Hatari Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "10.000",
+            "foto" : "Ikan1.png"
+        },
+        {
+            "id":"2",
+            "namamakanan" : "Sakura Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "10.000",
+            "foto" : "Ikan2.png"
+        },
+        {
+            "id":"6",
+            "namamakanan" : "Gold Coin Perkutut",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung6.png"
+        },
+        {
+            "id":"5",
+            "namamakanan" : "Hakkoi Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "18.000",
+            "foto" : "Ikan5.png"
+        },
+        {
+            "id":"7",
+            "namamakanan" : "Balibu",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "20.000",
+            "foto" : "Burung7.png"
+        },
+        {
+            "id":"11",
+            "namamakanan" : "Ori Cat Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing11.png"
+        },
+        {
+            "id":"6",
+            "namamakanan" : "CP 500 Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "28.000",
+            "foto" : "Ikan6.png"
+        },
+        {
+            "id":"7",
+            "namamakanan" : "CP 800 Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "24.000",
+            "foto" : "Ikan7.png"
+        },
+        {
+            "id":"9",
+            "namamakanan" : "781 fish food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "15.000",
+            "foto" : "Ikan9.png"
+        },
+        {
+            "id":"10",
+            "namamakanan" : "781-1",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "20.000",
+            "foto" : "Ikan10.png"
+        },
+        {
+            "id":"11",
+            "namamakanan" : "781-2",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "15.000",
+            "foto" : "Ikan11.png"
+        },
+        {
+            "id":"13",
+            "namamakanan" : "pelet koi",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "15.000",
+            "foto" : "Ikan13.png"
+        },
+        {
+            "id":"3",
+            "namamakanan" : "Topsong Bird Food",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "15.000",
+            "foto" : "Burung3.png"
+        },
+        {
+            "id":"14",
+            "namamakanan" : "Fengli 0",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "30.000",
+            "foto" : "Ikan14.png"
+        },
+        {
+            "id":"13",
+            "namamakanan" : "Super Cat Tuna",
+            "desc" : "protein, fiber, omega 6, zinc, vitamin A, vitamin E, dan taurin, etc.",
+            "category" :"Cat Food",
+            "harga" : "15.000",
+            "foto" : "Kucing13.png"
+        },
+        {
+            "id":"8",
+            "namamakanan" : "CP 1000 Fish Food",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "22.000",
+            "foto" : "Ikan8.png"
+        },
+        {
+            "id":"15",
+            "namamakanan" : "Fancy Bird Food",
+            "desc" : "Carbohydrates, Proteins, Fats, Vitamins, Amino Acids, and Minerals, etc.",
+            "category" :"Bird Food",
+            "harga" : "20.000",
+            "foto" : "Burung15.png"
+        },
+        {
+            "id":"12",
+            "namamakanan" : "782",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "15.000",
+            "foto" : "Ikan12.png"
+        },
+        {
+            "id":"16",
+            "namamakanan" : "Red Maggot",
+            "desc" : "Fish Flour, Shrimp Flour, Soy Flour, Vitamins, Minerals, Color Brighteners, Anti-Oxidant and others. Nutritional Content of Takari Protein 30 % Fat 3 % Fiber 4 % Ash 12 % Water Content 12 % Vitamins A, D3, E, B1, B6, B12, Niacin, Biotin, Panthotenic, Choline, etc.",
+            "category" :"Fish Food",
+            "harga" : "60.000",
+            "foto" : "Ikan16.png"
+        },
+        {
+            "id":"1",
+            "namamakanan" : "Dog Choize Beef",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "20.000",
+            "foto" : "anjing1.png"
+        },
+        {
+            "id":"2",
+            "namamakanan" : "Dog Choize Lamb",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "20.000",
+            "foto" : "anjing2.png"
+        },
+        {
+            "id":"3",
+            "namamakanan" : "Happy Dog",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "60.00031",
+            "foto" : "anjing3.png"
+        },
+        {
+            "id":"4",
+            "namamakanan" : "Bolt Dog Food",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "20.000",
+            "foto" : "anjing4.png"
+        },
+        {
+            "id":"5",
+            "namamakanan" : "Kin Dog Food",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "20.000",
+            "foto" : "anjing5.png"
+        },
+        {
+            "id":"6",
+            "namamakanan" : "Cesar Dog Food",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "15.000",
+            "foto" : "anjing6.png"
+        },
+        {
+            "id":"7",
+            "namamakanan" : "Pedigree",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "50.000",
+            "foto" : "anjing7.png"
+        },
+        {
+            "id":"8",
+            "namamakanan" : "Ganador",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "50.000",
+            "foto" : "anjing8.png"
+        },
+        {
+            "id":"9",
+            "namamakanan" : "Royal Canin Dog Food",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing9.png"
+        },
+        {
+            "id":"10",
+            "namamakanan" : "Nature Best Dog Food",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing10.png"
+        },
+        {
+            "id":"11",
+            "namamakanan" : "Royal Canin Shih Tzu Adult",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.00031",
+            "foto" : "anjing11.png"
+        },
+        {
+            "id":"12",
+            "namamakanan" : "Royal Canin Mini Adult",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing12.png"
+        },
+        {
+            "id":"13",
+            "namamakanan" : "Royal Canin Mini Exigent",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing13.png"
+        },
+        {
+            "id":"14",
+            "namamakanan" : "Royal Canin Mini Puppy",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing14.png"
+        },
+        {
+            "id":"15",
+            "namamakanan" : "Royal Canin Poodle ",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing15.png"
+        },
+        {
+            "id":"16",
+            "namamakanan" : "Royal Canin Bulldog",
+            "desc" : "meat from beef, chicken, fish, rabbit, and venison. Protein itself is an indispensable nutrient for cell regeneration, maintaining healthy organs, promoting hair growth, etc.",
+            "category" :"Dog Food",
+            "harga" : "85.000",
+            "foto" : "anjing16.png"
+        }
+    
+]
+}
